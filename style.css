@@ -1,0 +1,54 @@
+.bg-img{
+    background-color: white;
+    /* background-image: url('Images/R.jpg'); */
+}
+
+.heading-text{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.nav-bg{
+    background-color: white;
+}
+
+.width-search{
+    width: 100%;
+}
+
+.head-text{
+    font-size: 30px;
+}
+
+.add{
+    float: right;
+}
+
+.cart-img{
+    width: 350px;
+    height: 350px;
+   
+    display: flex;
+
+   margin: auto;
+}
+
+.sh-btn{
+    position: relative;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 44%;
+}
+
+.social-icons{
+    margin: 0px 10px
+}
+
+.social-media{
+    text-align: center;
+}
+
+.footer-text{
+    margin-top: 10px;
+}
